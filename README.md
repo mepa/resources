@@ -11,7 +11,7 @@
 ## Spark
 - http://www.sciencedirect.com/science/article/pii/S1877050915017895
 
-## Coding Practice (i.e., FB Replacement Activities)
+## Coding Practice
 - https://www.hackerrank.com/
 - https://www.codewars.com/
 - http://codingforinterviews.com/
@@ -28,5 +28,8 @@
 ## Stats
 - https://speakerdeck.com/jakevdp/statistics-for-hackers
 - http://allendowney.blogspot.com/2016/06/there-is-still-only-one-test.html
+- 
+## Datasets
+- https://github.com/caesar0301/awesome-public-datasets
 
 
