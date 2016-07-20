@@ -37,6 +37,7 @@
 - https://hackerlists.com/free-machine-learning-books/
 - https://pythonprogramming.net/machine-learning-tutorial-python-introduction/
 - http://statweb.stanford.edu/~tibs/ElemStatLearn/
+- - http://www.fatml.org
 
 ## Deep Learning
 - https://www.tensorflow.org/versions/r0.8/tutorials/word2vec/index.html
@@ -47,6 +48,7 @@
 ## NLP
 - https://spacy.io/
 - https://www.quora.com/What-are-the-advantages-of-Spacy-vs-NLTK
+- https://en.wikipedia.org/wiki/Latent_semantic_analysis
 
 ## Spark, Hadoop, etc.
 - http://www.sciencedirect.com/science/article/pii/S1877050915017895
@@ -79,8 +81,7 @@
 - https://demo.use.yt/user/8ZMzRjIhRy7X/tree
 - http://www.vtk.org/
 - https://github.com/wlattner/SciPy_2016
-- 
- 
+- https://hackpad.com/SciPy-Diversity-Reading-List-blTUBb2u8xO
 
 ## Companies
 - http://idibon.com/
@@ -102,8 +103,6 @@
 - https://en.wikipedia.org/wiki/Quadtree
 - https://en.wikipedia.org/wiki/Octree
 - https://en.wikipedia.org/wiki/Construct_validity
-- http://www.fatml.org
 - Walach (Medium 2014)
-- https://en.wikipedia.org/wiki/Construct_validity
 - http://flexx.readthedocs.io/en/stable/
 - https://github.com/binder-project/binder
