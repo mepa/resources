@@ -25,6 +25,7 @@
 - https://www.reddit.com/r/datasets
 - https://cloud.google.com/bigquery/public-data/
 - http://gdc.gale.com/products/declassified-documents-reference-system/
+- https://www.cms.gov/Research-Statistics-Data-and-Systems/Downloadable-Public-Use-Files/SynPUFs/DE_Syn_PUF.html
 
 ### Stats
 - https://speakerdeck.com/jakevdp/statistics-for-hackers
