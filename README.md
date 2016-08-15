@@ -126,6 +126,11 @@
 ### Career Advice
 - https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6#.badygkyxs
 
+### Certifications
+- https://www.certifiedanalytics.org/
+- http://www.cisco.com/c/en/us/training-events/training-certifications/overview.html
+- https://www.microsoft.com/en-us/learning/sql-training.aspx
+
 
 ### To Be Organized
 - http://sl8r000.github.io/ab_testing_statistics/
