@@ -37,6 +37,8 @@
 - https://github.com/open-source-society/data-science
 - http://www.wsj.com/articles/what-data-scientists-do-all-day-at-work-1457921541
 - http://varianceexplained.org/r/year_data_scientist/
+- https://www.jstatsoft.org/article/view/v059i10 (tidy data)
+- https://data-8.appspot.com/sp16/course
 
 ### Machine Learning
 - http://blogs.gartner.com/martin-kihn/machine-learning-for-marketing-cheat-sheet/
