@@ -32,6 +32,7 @@
 - http://allendowney.blogspot.com/2016/06/there-is-still-only-one-test.html
 - https://www.openintro.org/stat/textbook.php?stat_book=os
 - http://blog.efpsa.org/2015/08/03/bayesian-statistics-why-and-how/
+- http://web.stanford.edu/~hastie/CASI/contents.html
 
 ### Data Science
 - https://github.com/open-source-society/data-science
@@ -51,6 +52,8 @@
 - http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/
 - http://scikit-learn.org/stable/tutorial/machine_learning_map/
 - https://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html
+- https://www.youtube.com/watch?v=aA3qdegi8Vw (A Quick Tour of Machine Learning and Statistical Tools)
+- http://mlpy.sourceforge.net/
 
 ### Deep Learning
 - https://www.tensorflow.org/versions/r0.8/tutorials/word2vec/index.html
@@ -62,6 +65,9 @@
 - https://spacy.io/
 - https://www.quora.com/What-are-the-advantages-of-Spacy-vs-NLTK
 - https://en.wikipedia.org/wiki/Latent_semantic_analysis
+
+### Naive Bayes
+- https://predictoanalycto.wordpress.com/2015/07/23/titanic-machine-learning-from-disaster-naive-bayes/
 
 ### Spark, Hadoop, etc.
 - http://www.sciencedirect.com/science/article/pii/S1877050915017895
@@ -83,6 +89,7 @@
 - https://docs.python.org/3/library/stdtypes.html#types-set
 - https://wiki.python.org/moin/PythonDecorators
 - https://github.com/audreyr/cookiecutter
+- http://www.dabeaz.com/python/UnderstandingGIL.pdf
 
 ### PyData
 - http://holoviews.org/
@@ -153,3 +160,4 @@
 - https://github.com/binder-project/binder
 - http://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/
 - http://arxiv.org/pdf/1607.00376v1.pdf ("Men set their own cites high: Gender and self-citation across fields and over time")
+- https://www.oreilly.com/ideas/practical-machine-learning-techniques-for-building-intelligent-applications
