@@ -40,6 +40,7 @@
 - http://varianceexplained.org/r/year_data_scientist/
 - https://www.jstatsoft.org/article/view/v059i10 (tidy data)
 - https://data-8.appspot.com/sp16/course
+- http://blog.kaggle.com/2016/09/13/what-were-reading-data-science-resources/
 
 ### Machine Learning
 - http://blogs.gartner.com/martin-kihn/machine-learning-for-marketing-cheat-sheet/
