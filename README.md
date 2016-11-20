@@ -41,6 +41,7 @@
 - https://www.jstatsoft.org/article/view/v059i10 (tidy data)
 - https://data-8.appspot.com/sp16/course
 - http://blog.kaggle.com/2016/09/13/what-were-reading-data-science-resources/
+- http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html
 
 ### Machine Learning
 - http://blogs.gartner.com/martin-kihn/machine-learning-for-marketing-cheat-sheet/
@@ -120,7 +121,7 @@
 - https://www.youtube.com/watch?v=3TpcSPN8u-U
 
 
-### Companies
+### Companies I heard about at conference talks
 - http://idibon.com/
 - https://www.qordoba.com/
 - http://wayblazer.com/
