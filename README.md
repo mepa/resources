@@ -42,6 +42,7 @@
 - https://data-8.appspot.com/sp16/course
 - http://blog.kaggle.com/2016/09/13/what-were-reading-data-science-resources/
 - http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html
+- http://www.edvancer.in/87-effective-data-analytics-interview-questions/
 
 ### Machine Learning
 - http://blogs.gartner.com/martin-kihn/machine-learning-for-marketing-cheat-sheet/
