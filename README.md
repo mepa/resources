@@ -12,14 +12,6 @@
 - https://leetcode.com/
 - https://modeanalytics.com/
 
-### Current MOOCs
-- https://www.coursera.org/learn/progfun1
-- https://www.coursera.org/learn/hadoop
-- https://www.coursera.org/learn/predictive-analytics/
-- https://www.coursera.org/learn/data-results/
-- https://www.edx.org/course/introduction-apache-spark-uc-berkeleyx-cs105x
-
-
 ### Datasets
 - https://github.com/caesar0301/awesome-public-datasets
 - https://www.reddit.com/r/datasets
@@ -90,6 +82,8 @@
 
 ### Software Development
 - https://en.wikipedia.org/wiki/Agile_software_development
+- https://www.owasp.org/index.php/OWASP_Proactive_Controls#tab=Main
+- https://www.owasp.org/index.php/OWASP_Proactive_Controls?refresh=123#tab=OWASP_Proactive_Controls_2016
 
 ### Python
 - https://docs.python.org/3/library/stdtypes.html#types-set
@@ -123,6 +117,14 @@
 - https://www.youtube.com/watch?v=0xJofTfAHWw
 - https://www.youtube.com/watch?v=iMi60eBIOkg
 - https://www.youtube.com/watch?v=3TpcSPN8u-U
+
+
+### Current MOOCs
+- https://www.coursera.org/learn/progfun1
+- https://www.coursera.org/learn/hadoop
+- https://www.coursera.org/learn/predictive-analytics/
+- https://www.coursera.org/learn/data-results/
+- https://www.edx.org/course/introduction-apache-spark-uc-berkeleyx-cs105x
 
 
 ### Companies I heard about at conference talks
