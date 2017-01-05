@@ -149,6 +149,10 @@
 - http://www.cisco.com/c/en/us/training-events/training-certifications/overview.html
 - https://www.microsoft.com/en-us/learning/sql-training.aspx
 
+### Russia
+- https://www.youtube.com/watch?v=jleF5fq0CBk
+- https://www.youtube.com/watch?v=BqIEHIf2QTo
+
 
 ### To Be Organized
 - http://sl8r000.github.io/ab_testing_statistics/
