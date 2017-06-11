@@ -84,6 +84,15 @@
 - https://en.wikipedia.org/wiki/Agile_software_development
 - https://www.owasp.org/index.php/OWASP_Proactive_Controls#tab=Main
 - https://www.owasp.org/index.php/OWASP_Proactive_Controls?refresh=123#tab=OWASP_Proactive_Controls_2016
+- http://columbia-applied-data-science.github.io/pages/lowclass-python-style-guide.html
+- http://treycausey.com/software_dev_skills.html
+- https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html
+
+### Testing
+- https://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/
+- https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest
+- http://engineering.pivotal.io/post/test-driven-development-for-data-science/
+- https://blog.dominodatalab.com/unit-testing-data-science/
 
 ### Python
 - https://docs.python.org/3/library/stdtypes.html#types-set
